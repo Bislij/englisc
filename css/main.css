@@ -3,7 +3,17 @@
     src: url('../fonts/georgia.ttf');
 }
 
+header {
+    width: 100%;
+    background-color: blueviolet;
+}
+
 h1 {
     font-family: 'Georgia', serif;
     font-weight: normal;
+    font-size: 35px;
+}
+
+header h1 {
+    font-size: 50px;
 }
