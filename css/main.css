@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Georgia';
+    src: url('../fonts/georgia.ttf');
+}
+
 h1 {
     font-family: 'Georgia', serif;
     font-weight: normal;
